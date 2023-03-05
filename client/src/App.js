@@ -19,7 +19,7 @@ function App() {
           >
             Learn React 3
           </a>
-          <Link to="/">Fib Calculator</Link>
+          <Link to="/">Fib Calculator HTTPS</Link>
           <Link to="/otherpage">Other Page</Link>
         </header>
         <div>
